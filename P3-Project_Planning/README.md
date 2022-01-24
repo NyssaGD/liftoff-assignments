@@ -7,13 +7,13 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+(you have to search for them but they're on there on the left corner)
+https://miro.com/app/board/uXjVOYYnTGc=/
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/mK5d9w9x/cat-cafe-hub-app
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/typow21/CatFe
